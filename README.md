@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GustinSchumacher
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Full-Stack Development
 - 🌱 I’m currently learning Front-End Engineering 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
