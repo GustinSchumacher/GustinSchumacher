@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GustinSchumacher
 - 👀 I’m interested in Full-Stack Development
-- 🌱 I’m currently learning Front-End Engineering 
+- 🌱 I’m currently learning Front-End Development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
